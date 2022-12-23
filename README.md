@@ -1,4 +1,10 @@
 # Getting Started with Create React App
+
+#Goto this url:
+
+https://spectacular-alpaca-2f3d4a.netlify.app/
+
+
 ![Screenshot at 2022-12-23 00-23-04](https://user-images.githubusercontent.com/55488549/209206465-90dcf8c0-4e34-4b17-85c3-03db7dcd624f.png)
 
 
