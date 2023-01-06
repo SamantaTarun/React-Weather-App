@@ -4,7 +4,6 @@ import "./style.css";
 const Temp = () => {
   const [searchValue, setSearchValue] = useState("kolkata");
   const [temparature, setTemparature] = useState({});
- 
   const getWeatherInfo = async () => {
     try {
       console.log(searchValue);
